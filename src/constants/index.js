@@ -73,7 +73,7 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer2,
-        customerName: 'Kim Jong Un',
+        customerName: 'King Pawas',
         rating: 7.5,
         feedback: "This company is the best bus company I have ever met. excellent service and does not disappoint!."
     },
